@@ -8,3 +8,5 @@
 ["Russia", "Denmark", "Kazan"] -> [ ] */
 
 string[] array = new string[] {"1234", "1567", "-2", "computer science"};
+
+string[] result = new string[array.Length];
